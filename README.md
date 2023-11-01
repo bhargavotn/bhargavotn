@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhargavotn
 - 👀 I’m interested in ...front end developer
-- 🌱 I’m currently learning ...backend developing
+- 🌱 I’m currently learning ...data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
